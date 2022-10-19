@@ -18,6 +18,6 @@ const webDeveloper = {
   
 
 
-- 📫 How to reach me: gillepsiekamary@gmail.com
+- 📫 How to reach me: gillespiekamary@gmail.com
 
 - 😄 Portfolio: Coming Soon!
