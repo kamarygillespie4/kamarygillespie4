@@ -1,10 +1,17 @@
-### Hi there 👋
+const aboutMe = {
+    pronouns: "she" || "her",
+    code: [Javascript, HTML, CSS],
+    technologies: {
+        frontEnd: {
+            js:[React, "jQuery"],
+            css: ["Bootstrap", "React-Bootstrap"],
+            templates: ["Handlebars"]
+        },
+        backEnd: {
+            js: ["Node", "Express"]
+            misc:[GraphQL]
+        },
+    },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently a student at Denver University's Full-Stack Coding Bootcamp ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
+    databases: ["MongoDB", "mySQL"],
+};
