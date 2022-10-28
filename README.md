@@ -18,6 +18,8 @@ const webDeveloper = {
   
 
 
-- 📫 How to reach me: gillespiekamary@gmail.com
+-  How to reach me: gillespiekamary@gmail.com
 
-- 😄 Portfolio: Coming Soon!
+-  Portfolio: [Kamary Gillespie](https://kamarygillespie4.github.io/react-portfolio/)
+
+-  LinkedIn: [Kamary Gillespie](https://www.linkedin.com/in/kamary-gillespie/)
