@@ -23,3 +23,5 @@ const webDeveloper = {
 -  Portfolio: [Kamary Gillespie](https://kamarygillespie4.github.io/react-portfolio/)
 
 -  LinkedIn: [Kamary Gillespie](https://www.linkedin.com/in/kamary-gillespie/)
+
+-  Currently: Learning Cad and exploring 3d print technology!
