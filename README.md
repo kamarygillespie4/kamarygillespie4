@@ -8,19 +8,19 @@ const webDeveloper = {
 &nbsp;&nbsp; technologies: {   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  frontEnd: {    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    javaScript: ["React", "handlebars", "jQuery"],   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    css: ["Bootstrap", "React-Bootstrap"]   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    css: ["Bootstrap", "React-Bootstrap", "Tailwind"]   
 &nbsp;&nbsp;&nbsp;&nbsp;  },   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  backEnd: {   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    javaScript: ["Express", "Node", "GraphQL"]  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    },  
-&nbsp;&nbsp; dataBases: ["MySQL", "MongoDB"],   
+&nbsp;&nbsp; dataBases: ["MySQL", "MongoDB", "Sanity"],   
 };   
   
 
 
 -  How to reach me: gillespiekamary@gmail.com
 
--  Portfolio: [Kamary Gillespie](https://kamarygillespie4.github.io/react-portfolio/)
+-  Portfolio: [Kamary Gillespie](https://kamary-gillespie-portfolio.netlify.app/)
 
 -  LinkedIn: [Kamary Gillespie](https://www.linkedin.com/in/kamary-gillespie/)
 
